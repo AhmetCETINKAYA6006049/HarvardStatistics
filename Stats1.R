@@ -64,5 +64,3 @@ vec <- 13:24
 sample(vec, 1)
 df$Bodyweight[sample(vec, 1)]
 
-
-
